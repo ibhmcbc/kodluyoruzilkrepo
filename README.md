@@ -25,3 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ![Kodluyoruz Githubının bir fotosu](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 Ödev yapıldı
+
