@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Kodluyoruz Ilk Repo
 Bu repo kodluyoruz Front-End-Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
@@ -26,7 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ![Kodluyoruz Githubının bir fotosu](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 
-=======
 # kodluyoruzilkrepo
 kodluyoruz dersleri için açtığım repo
->>>>>>> a84259110661afd820513eef4e0b930f8b959685
